@@ -1,0 +1,4 @@
+repository "TicTacToe5-client/TicTacToe5-client@14569646630957@cloud"
+  path "/"
+    br "/main"
+    co "/main"
